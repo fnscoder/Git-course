@@ -1,4 +1,4 @@
-curso-git
+Git course
 =========
 
-Repositório do curso de Git
+Git course repository
